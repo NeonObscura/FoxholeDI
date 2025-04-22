@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxholeDI", "FoxholeDI\FoxholeDI.csproj", "{FB490760-7B1E-44EC-BBFC-D4967CFA3A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxholeDI.UnitTests", "FoxholeDI.UnitTests\FoxholeDI.UnitTests.csproj", "{2A0FD02C-9B89-4075-87F2-DCAEEAC2D55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxholeDI.IntegrationTests", "FoxholeDI.IntegrationTests\FoxholeDI.IntegrationTests.csproj", "{B41E33EF-DB63-4BF6-95E3-9B20EDDAB16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB490760-7B1E-44EC-BBFC-D4967CFA3A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB490760-7B1E-44EC-BBFC-D4967CFA3A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB490760-7B1E-44EC-BBFC-D4967CFA3A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB490760-7B1E-44EC-BBFC-D4967CFA3A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0FD02C-9B89-4075-87F2-DCAEEAC2D55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0FD02C-9B89-4075-87F2-DCAEEAC2D55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0FD02C-9B89-4075-87F2-DCAEEAC2D55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0FD02C-9B89-4075-87F2-DCAEEAC2D55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41E33EF-DB63-4BF6-95E3-9B20EDDAB16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41E33EF-DB63-4BF6-95E3-9B20EDDAB16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41E33EF-DB63-4BF6-95E3-9B20EDDAB16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41E33EF-DB63-4BF6-95E3-9B20EDDAB16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
